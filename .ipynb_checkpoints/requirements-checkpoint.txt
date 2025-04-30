@@ -1,0 +1,4 @@
+attrdict
+numpy
+Pillow
+six
